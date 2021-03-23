@@ -1,6 +1,10 @@
 .idea/*
 *.iml
 DS_STORE
+
+
 *.class
 out/*
+
+
 
